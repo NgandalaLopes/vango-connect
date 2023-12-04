@@ -30,12 +30,20 @@ createUserWithEmailAndPassword(auth, email, password)
     // Signed up 
     const user = userCredential.user;
     // ...
-  })
-  .catch((error) => {
-    const errorCode = error.code;
-    const errorMessage = error.message;
-    // ..
-  });
+ // Update user profile
+ return user.updateProfile({
+  displayName: name,
+  photoURL: profilePic,
+});
+})
+.then(() => {
+// Profile updated successfully
+// Additional code after profile update if needed
+})
+.catch((error) => {
+// Handle errors during sign up or profile update
+console.error("Error:", error.message);
+});
 
   }
   return (
