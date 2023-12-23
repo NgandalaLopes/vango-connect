@@ -1,6 +1,6 @@
-# VANGO CONNECT - SOCIAL NETWORK FOR AFRICAN DIASPORA FILDM
+# VANGO CONNECT
 
-### 
+### SOCIAL NETWORK FOR AFRICAN DIASPORA FILDM
 
 - Applied React fundamentals and  React Hooks
 - Management of data in a react app using Redux
