@@ -1,6 +1,6 @@
 # VANGO CONNECT
 
-### SOCIAL NETWORK FOR AFRICAN DIASPORA FILDM
+### SOCIAL NETWORK FOR AFRICAN DIASPORA FILM
 
 - Applied React fundamentals and  React Hooks
 - Management of data in a react app using Redux
