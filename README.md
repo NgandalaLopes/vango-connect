@@ -2,7 +2,7 @@
 
 ### SOCIAL NETWORK FOR AFRICAN DIASPORA FILM
 
-### Redux, Firebase, Auth + More..
+### Redux, Firebase, Auth + More...
 
 - Applied React fundamentals and  React Hooks
 - Management of data in a react app using Redux
